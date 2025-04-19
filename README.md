@@ -25,7 +25,7 @@ This project focuses on applying **Support Vector Machine (SVM)** for regression
 
 ## Convergence Plot
 
-![convergence_plot.png](![image](https://github.com/user-attachments/assets/5f609524-07a5-4dde-955b-47e10c893711))
+![convergence_plot.png](https://github.com/user-attachments/assets/5f609524-07a5-4dde-955b-47e10c893711)
 
 
 **Interpretation:**
