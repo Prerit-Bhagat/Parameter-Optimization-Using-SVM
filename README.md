@@ -24,8 +24,8 @@ This project focuses on applying **Support Vector Machine (SVM)** for regression
 - **Target Variable**: `drinks` (continuous)
 
 ## Convergence Plot
+![convergence_plot.png](convergence_plot.png)
 
-convergence_plot.png
 
 **Interpretation:**
 
